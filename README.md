@@ -64,7 +64,6 @@ insertion_sort(list_of_nums)
 # use the insertion sort function to get the sorted list
 # print the sorted list
 
-
 ```
 
 ## Output:
